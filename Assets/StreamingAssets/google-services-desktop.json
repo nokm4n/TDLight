@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "373630785540",
+    "project_id": "tower-of-magic-android",
+    "storage_bucket": "tower-of-magic-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373630785540:android:4ea664148fe1ac64023d51",
+        "android_client_info": {
+          "package_name": "com.reallshin.towerofmagic.aab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373630785540-136ch4h5ijh815fk1hnc56h7be9chkm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_IW5YMmPi3xhyt20I0cnOw_6sPtNAsuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373630785540-136ch4h5ijh815fk1hnc56h7be9chkm3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373630785540-4090qid41q89g2mk7j200amobse3tros.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reallshin.towerofmagic.aab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

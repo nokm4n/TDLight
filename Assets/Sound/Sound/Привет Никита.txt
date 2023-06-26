@@ -1,0 +1,14 @@
+звук 1 - arrow blue  OrdaLVL1_01 +
+звук 2 - arrow green CauldronLVL1_02 ?
+звук 3 - radioactiveBall Башня - tower 3 ?
+звук 4 - arrow poisoned StaffLVL1_03 ?
+звук 10 - swordFire CastleLVL1_01?S
+звук 6 - swordIce CastleLVL1_04?
+звук 9 - pinkGum Башня - tower 2 ?
+звук 11 - BulletOrange BulletGreen Башня - tower 1 +?
+звук 17 - laserRed LaserBlue tower 5 ?
+звук 12 - BubbleBlue BubbleRose tower 4 ?
+звук 15 - SpinYellow tower old 5 +
+звук 16 - SpinBlue tower old 4 ?
+звук 18 - ProjectileCarrot tower old 1 ?
+звук 19 - ProjectileFeather tower old 2 ?

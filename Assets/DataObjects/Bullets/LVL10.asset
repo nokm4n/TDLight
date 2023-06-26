@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e42a8ac65d76ee4ca99b9e2bf1d74d2, type: 3}
+  m_Name: LVL10
+  m_EditorClassIdentifier: 
+  _speed: 8
+  _explosionRadius: 0
+  _impactEffect: {fileID: 0}
+  _prefab: {fileID: 2701295994959318768, guid: 0c6c108bed430e04f8148edd9c66033e, type: 3}
